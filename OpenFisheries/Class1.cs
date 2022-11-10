@@ -1,4 +1,4 @@
-namespace {{Namespace}}
+namespace OpenFisheries
 {
     public class Class1
     {

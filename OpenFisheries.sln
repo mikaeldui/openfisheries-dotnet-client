@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenFisheries", "OpenFisheries\OpenFisheries.csproj", "{5BEF8B74-2865-4F90-A9EB-99D6D55AD1AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenFisheries.Tests", "OpenFisheries.Tests\OpenFisheries.Tests.csproj", "{A7553476-E96B-4905-8F5F-EAB86C1BA037}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BEF8B74-2865-4F90-A9EB-99D6D55AD1AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BEF8B74-2865-4F90-A9EB-99D6D55AD1AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BEF8B74-2865-4F90-A9EB-99D6D55AD1AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BEF8B74-2865-4F90-A9EB-99D6D55AD1AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7553476-E96B-4905-8F5F-EAB86C1BA037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7553476-E96B-4905-8F5F-EAB86C1BA037}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7553476-E96B-4905-8F5F-EAB86C1BA037}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7553476-E96B-4905-8F5F-EAB86C1BA037}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
