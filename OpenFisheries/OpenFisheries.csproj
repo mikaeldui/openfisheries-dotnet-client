@@ -9,12 +9,12 @@
     <PackageId>MikaelDui.OpenFisheries</PackageId>
     <Authors>Mikael Dúi Bolinder</Authors>
     <Product>MikaelDui.OpenFisheries</Product>
-    <Description>This project is really awesome!</Description>
+    <Description>The OpenFisheries.org project seeks to advance the practice of data science in fisheries. The project does this by consolidating global fisheries datasets through an open web platform and viewing this data through a lens of modern analytics.</Description>
     <PackageProjectUrl>https://github.com/mikaeldui/openfisheries-dotnet-client</PackageProjectUrl>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageIcon>OpenFisheries.png</PackageIcon>
     <RepositoryUrl>https://github.com/mikaeldui/openfisheries-dotnet-client</RepositoryUrl>
-    <PackageTags></PackageTags>
+    <PackageTags>openfisheries; united nations; fisheries; statistics; isscaap; asfis; fao; nfiss</PackageTags>
     <PackageLicenseExpression>Unlicense</PackageLicenseExpression>
     <AssemblyName>MikaelDui.OpenFisheries</AssemblyName>
   </PropertyGroup>
